@@ -1,0 +1,13 @@
+{
+  "name": "webbycrown/ridge-statamic-theme",
+  "type": "statamic-starter-kit",
+  "description": "A Statamic starter kit for construction firms, featuring named projects, site leads, and a booking schedule.",
+  "require": {
+    "statamic/cms": "*"
+  },
+  "extra": {
+    "statamic": {
+      "starter-kit": true
+    }
+  }
+}
