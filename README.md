@@ -4,9 +4,6 @@ Ridge is a construction starter kit for residential builders, commercial contrac
 
 The kit ships four home variants, project listings, booking, events, shop pages, blog and podcast layouts, and membership content so a contractor can publish jobs and take project inquiries from one site.
 
-**Live demo:** https://ridge-statamic.webbydemo.in/  
-Control Panel: `/cp` — `admin@example.com` / `password`
-
 ## Pages of Ridge
 
 The Ridge starter kit includes a comprehensive set of pages for a construction firm:
